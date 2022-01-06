@@ -1,1 +1,2 @@
-# CSCI3308-Individual-Final-Project
+# IndividualProjectsSetC
+IndividualProjectsSetC

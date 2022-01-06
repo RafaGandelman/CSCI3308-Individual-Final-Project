@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS reviews (
+  id SERIAL PRIMARY KEY,
+  artist VARCHAR NOT NULL,
+  review VARCHAR NOT NULL,
+  review_date DATE NOT NULL
+);
